@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094295822946",
+    "project_id": "wfyp-62cff",
+    "storage_bucket": "wfyp-62cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094295822946:android:195357b1adc51e9f5be73b",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VcAGPkKbA6cdcIf2DSrosr2OqDj1aBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
