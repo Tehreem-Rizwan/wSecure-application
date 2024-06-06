@@ -1,4 +1,4 @@
-# fyp
+# wSECURE: A WOEMN SECURRITY APP FOR SAFETY OF WOMEN
 
 A new Flutter project.
 
