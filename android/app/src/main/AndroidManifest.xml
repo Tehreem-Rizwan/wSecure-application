@@ -71,7 +71,7 @@
         <!-- Meta-data for API Key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD2gmh_Hfv6BjLDlZ8iOvBjz-LYGxz7yFk" />
+            android:value="--YOUR API KEY--" />
 
         <!-- Firebase Instance ID Receiver -->
         <receiver
